@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tictactoe-game/static/css/main.6ce74711.css",
+    "main.js": "/Tictactoe-game/static/js/main.eafdaade.js",
+    "static/js/453.1d9a75e6.chunk.js": "/Tictactoe-game/static/js/453.1d9a75e6.chunk.js",
+    "service-worker.js": "/Tictactoe-game/service-worker.js",
+    "static/media/th.jpg": "/Tictactoe-game/static/media/th.8bbae14b75b9773fbd43.jpg",
+    "index.html": "/Tictactoe-game/index.html",
+    "main.6ce74711.css.map": "/Tictactoe-game/static/css/main.6ce74711.css.map",
+    "main.eafdaade.js.map": "/Tictactoe-game/static/js/main.eafdaade.js.map",
+    "453.1d9a75e6.chunk.js.map": "/Tictactoe-game/static/js/453.1d9a75e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce74711.css",
+    "static/js/main.eafdaade.js"
+  ]
+}
